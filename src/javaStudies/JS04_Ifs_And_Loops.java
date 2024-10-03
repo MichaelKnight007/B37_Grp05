@@ -1,4 +1,6 @@
-public class JS03_Ifs_And_Loops {
+package javaStudies;
+
+public class JS04_Ifs_And_Loops {
     public static void main(String[] args) {
 
         //  ------------------------------------ If Clauses ---------------------------------------------

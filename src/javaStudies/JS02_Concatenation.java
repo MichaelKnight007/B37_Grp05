@@ -1,3 +1,5 @@
+package javaStudies;
+
 public class JS02_Concatenation {
 
 

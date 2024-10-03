@@ -1,3 +1,5 @@
+package javaStudies;
+
 public class JS01_Variables {
 
     public static void main(String[] args) {
